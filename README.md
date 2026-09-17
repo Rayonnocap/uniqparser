@@ -1,7 +1,7 @@
 # UNIQPARSER
 
-This tool you can use for parsing some kind of files to get users/emails list
-
+This tool you can use for parsing some kind of files to get users/emails list (and get IP`s from any file)
+ 
 OS Version: Linux, Win, MacOS Requirements: Python 3.14.6
 
 ---
