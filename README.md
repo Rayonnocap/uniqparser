@@ -57,4 +57,6 @@ python3 uniqparser.py -f ~/path/to/file -s -o --nmap ~/path/to/output
 
 ---
 
+P.S ts is vibecoded
+
 **[by Ultimate Lizzard]**
