@@ -10,7 +10,7 @@ OS Version: Linux, Win, MacOS Requirements: Python 3.14.6
 
 ### Clone this repo:
 ```
-git https://github.com/Rayonnocap/uniqparser.git
+git clone https://github.com/Rayonnocap/uniqparser.git
 cd uniqparser
 ```
 
